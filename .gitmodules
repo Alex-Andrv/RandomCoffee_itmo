@@ -1,0 +1,9 @@
+[submodule "itmoffe_bot_site"]
+	path = itmoffe_bot_site
+	url = git@github.com:Alex-Andrv/itmoffe_bot_site.git
+[submodule "randomcoffee_students"]
+	path = randomcoffee_students
+	url = git@github.com:Alex-Andrv/randomcoffee_students.git
+[submodule "matcher"]
+	path = matcher
+	url = git@github.com:Alex-Andrv/matcher.git
